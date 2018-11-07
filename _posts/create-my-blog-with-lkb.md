@@ -1,4 +1,9 @@
-
+---
+layout: page
+title: feed
+permalink: /feed/
+icon: glyphicon-heart
+---
                    #Ubuntu14.04下搭建VPN服务
 
 ####如果你买了服务器，并且服务器是香港的，那么你就会想搭vpn的。
